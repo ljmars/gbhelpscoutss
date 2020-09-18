@@ -1,0 +1,16 @@
+#searchBar .search-query {
+	background: #fff;
+	border-color: transparent;
+	box-shadow: none;
+	color: #777;
+}
+#searchBar button {
+	background: #2ecd73;
+	border-color: transparent;
+	color: #fff;
+}
+#searchBar button:hover {
+	background: #81E1AB;
+	border-color: transparent;
+	color: #2ecd73;
+}
